@@ -1,0 +1,11 @@
+{
+    "name": "com.kefniark.UnityBarcodeScanner",
+    "displayName": "Unity Barcode Scanner",
+    "version": "0.4.0",
+    "unity": "2018.1",
+    "description": "None",
+    "keywords": [
+        "barcode"
+    ],
+    "category": "Unity"
+}
